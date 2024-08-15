@@ -1,0 +1,5 @@
+.env
+.cartesi
+dapp.db
+/dist
+/node_modules

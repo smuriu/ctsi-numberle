@@ -1,0 +1,6 @@
+.cartesi
+.env
+dapp.db
+/dist
+/node_modules
+src/schema.d.ts
